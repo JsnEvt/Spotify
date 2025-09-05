@@ -36,13 +36,13 @@ O foco principal foi aplicar conceitos de **responsividade, componentes prontos 
 
 ## 🖼️ Demonstração
 
-![Print da página](imagens/print.png)
+![Print da página](imagens/spotify.png)
 
 ## ⚙️ Como Executar o Projeto
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/musica-para-todos.git
+   git clone https://github.com/JsnEvt/Spotify.git
 
 Abra o arquivo index.html no seu navegador.
 
@@ -54,4 +54,7 @@ Não é necessário servidor ou configuração adicional, pois o projeto é 100%
 Projeto desenvolvido como exercício prático de front-end.
 
 O objetivo é consolidar o aprendizado em Bootstrap, responsividade e integração de bibliotecas externas.
+
+## 👨‍💻 Autor
+Este projeto foi desenvolvido por **Jason Santos**, como parte das práticas do curso **Desenvolvimento Web com Python e Django** do professor Jamilton Damasceno (https://www.udemy.com/)
 
