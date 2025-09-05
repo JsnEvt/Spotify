@@ -26,7 +26,7 @@ O foco principal foi aplicar conceitos de **responsividade, componentes prontos 
 
 ---
 
-## 🖼️ Demonstração
+## 🖼️ Características
 
 - **Carrossel ativo**: alterna entre frases e botões de chamada para ação.  
 - **Botões estilizados** com cores personalizadas.  
@@ -34,7 +34,7 @@ O foco principal foi aplicar conceitos de **responsividade, componentes prontos 
 
 ---
 
-## 🖼️ Demonstração
+## 🖼️ A página
 
 ![Print da página](imagens/spotify.png)
 
